@@ -31,7 +31,7 @@ import { EmployeeService } from '../employee.service';
       </app-employee>
     </section>
   `,
-  styleUrls: ['./home.component.css'],
+  styleUrls: ['./home.component.scss']
 })
 
 export class HomeComponent {

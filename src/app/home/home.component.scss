@@ -1,20 +1,19 @@
 .content__filter {
   display: flex;
   justify-content: flex-end;
-}
 
-.content__filter select {
-  background-color: transparent;
-  border: 0;
-  border-bottom: 2px solid #d4d5db;
-  color: var(--color-white);
-  font-family: 'Roboto', sans-serif;
-  font-size: 1.6rem;
-  height: 5.2rem;
-  padding: 0.5rem 1rem 0.5rem 0;
-  width: 20rem;
+  select {
+    background-color: transparent;
+    border: 0;
+    border-bottom: 2px solid #d4d5db;
+    color: var(--color-white);
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6rem;
+    height: 5.2rem;
+    padding: 0.5rem 1rem 0.5rem 0;
+    width: 20rem;
+  }
 }
-
 
 .results {
   display: grid;

@@ -27,7 +27,7 @@ import { RouterModule } from '@angular/router';
       </a>
     </section>
   `,
-  styleUrls: ['./employee.component.css'],
+  styleUrls: ['./employee.component.scss']
 })
 
 export class EmployeeComponent {

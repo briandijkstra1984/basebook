@@ -59,7 +59,7 @@ import { RouterLink, RouterOutlet } from '@angular/router';
       </section>
     </main>
   `,
-  styleUrls: ['./app.component.css'],
+  styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
   title = 'homes';
